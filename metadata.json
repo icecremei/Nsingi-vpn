@@ -1,6 +1,6 @@
 {
-  "name": "CrimsonGuard VPN",
-  "description": "A high-performance, AI-powered VPN interface with a sleek red and black aesthetic. Features real-time traffic monitoring, global server maps, and an AI security advisor.",
+  "name": "Ice Guard VPN",
+  "description": "A high-performance, AI-powered VPN interface with a sleek red and black aesthetic. Features real-time traffic monitoring, global server maps, and an AI security advisor.\n\n",
   "requestFramePermissions": [
     "geolocation"
   ]
